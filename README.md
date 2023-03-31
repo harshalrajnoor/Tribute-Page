@@ -1,4 +1,4 @@
 # Tribute-Page
 A tribute page for Albert Einstein. Learning GitHub pages.
 <br/>
-[Go to - The Tribute Page](https://harshalrajnoor.github.io/Tribute-Page/)
+<a href="https://harshalrajnoor.github.io/Tribute-Page/" target="_blank">Go to - The Tribute Page</a>
